@@ -6,19 +6,21 @@ CV Data Extractor is a Python-based tool designed to extract essential informati
 
 # Features
 
->Extracts email IDs and contact numbers from CVs
->Captures overall text content including information in table format
->Supports CVs in PDF, DOCX, and DOC formats
->Generates output in .XLS (Excel) format for easy access and analysis
+Extracts email IDs and contact numbers from CVs
+Captures overall text content including information in table format
+Supports CVs in PDF, DOCX, and DOC formats
+Generates output in .XLS (Excel) format for easy access and analysis
+
 # Usage
 
->Ensure Python is installed on your system.
->Install the required dependencies using pip install -r requirements.txt.
->Run the cv_text_extractor.py script, providing the paths to the CV files you want to process.
->The extracted information will be saved in an Excel (.XLS) file named cv_info.xlsx on your desktop.
+Ensure Python is installed on your system.
+Install the required dependencies using pip install -r requirements.txt.
+Run the cv_text_extractor.py script, providing the paths to the CV files you want to process.
+The extracted information will be saved in an Excel (.XLS) file named cv_info.xlsx on your desktop.
+
 # Dependencies
 
->Python 3.x
->PyPDF2
->openpyxl
->docx
+Python 3.x
+PyPDF2
+openpyxl
+docx
