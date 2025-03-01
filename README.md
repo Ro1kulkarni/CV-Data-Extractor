@@ -11,7 +11,7 @@ CV Text Extractor is a Python-based tool designed to extract essential informati
 
 ## Usage
 1. Ensure Python is installed on your system.
-2. Install the required dependencies using `pip install -r requirements.txt`.
+2. Install the required dependencies.
 3. Run the `cv_text_extractor.py` script, providing the paths to the CV files you want to process.
 4. The extracted information will be saved in an Excel (.XLS) file named `cv_info.xlsx` on your desktop.
 
